@@ -1,0 +1,5 @@
+vendor/
+storage/app/public/
+storage/tmp/uploads/
+storage/media-library/temp/
+public/storage/
